@@ -16,10 +16,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" />
 
-</div>
-
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stheffanysantos&layout=compact&hide_border=true&title_color=de3163&text_color=c9d1d9&bg_color=0d1117"/>
+</div>
+
 </div>
 
 ## Connect with me
