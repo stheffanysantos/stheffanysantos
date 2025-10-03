@@ -1,10 +1,10 @@
-# 👩‍💻 Stheffany Santos
+# Stheffany Santos
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=de3163&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Stheffany+Santos;Computer+Science+Student;Frontend+%26+Backend+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)  
@@ -23,15 +23,13 @@
 
 ---
 
-## 📊 GitHub Stats
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=stheffanysantos&show_icons=true&hide_border=true&title_color=de3163&icon_color=de3163&text_color=c9d1d9&bg_color=0d1117"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stheffanysantos&layout=compact&hide_border=true&title_color=de3163&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 ---
 
-## 🌐 Connect with me
+## Connect with me
 <div align="center">
   <a href="https://instagram.com/tetscode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-de3163?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:stheffany.sts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
