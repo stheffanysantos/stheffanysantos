@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=de3163&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Stheffany+Santos;Computer+Science+Student;Frontend+%26+Backend+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-## Tech Stack
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" />
