@@ -6,7 +6,15 @@
 
 ## Sobre Mim
 
-Estudante de Ciência da Computação apaixonada por criar produtos digitais elegantes e escaláveis com foco em experiência do usuário. Combino expertise em frontend e backend para entregar soluções end-to-end.
+Desenvolvedora de Software apaixonada por criar produtos digitais que unem **tecnologia, experiência do usuário e impacto para o negócio**. Minha trajetória combina Desenvolvimento Mobile, Front-end e UX/UI Design, permitindo construir soluções com foco em **usabilidade, performance e escalabilidade**.
+
+Atualmente atuo no desenvolvimento de sistemas e produtos digitais utilizando **Flutter, React e .NET**. Também desenvolvo pesquisa acadêmica em Ciência da Computação e atuo como **Presidente do Licode (Ladies in Code)**, liderando iniciativas de comunidade, eventos e mentoria.
+
+### Interesses e Objetivos
+
+ **Desenvolvimento Mobile** |  **Engenharia de Software** |  **Arquitetura de Aplicações** |  **User Experience** |  **Design Systems** | **Acessibilidade** |  **Inteligência Artificial**
+
+Meu objetivo é evoluir como **Software Engineer**, contribuindo para a construção de **produtos inovadores, escaláveis e centrados no usuário**.
 
 ---
 
