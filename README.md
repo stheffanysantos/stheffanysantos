@@ -13,9 +13,9 @@ Atualmente, atuo no desenvolvimento de sistemas e aplicativos móveis utilizando
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:stheffany.sts@gmail.com)
 
 <p align="center">
-<pre>
- /\_/\ /\_/\ /\_/\ /\_/\ /\_/\ /\_/\ /\_/\ /\_/\ /\_/\ /\_/\
-( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )( o.o )
- > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <  > ^ <
-</pre>
+  <pre>
+ /\_/\      /\_/\
+( o.o )    ( o.o )
+ > ^ <      > ^ <
+  </pre>
 </p>
