@@ -6,7 +6,7 @@ Atualmente, atuo no desenvolvimento de sistemas e aplicativos móveis utilizando
 
 ### Interesses e Objetivos
 
- **Desenvolvimento Mobile** |  **Engenharia de Software** |  **Arquitetura de Aplicações** |  **User Experience** |  **Design Systems** | **Acessibilidade** |  **Inteligência Artificial**
+ **Desenvolvimento Mobile** |  **Engenharia de Software** |  **Arquitetura de Aplicações** |  **User Experience** | **IHC** | **Design Systems** | **Acessibilidade** |  **Inteligência Artificial**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stheffany-santos/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sthercode@gmail.com)
