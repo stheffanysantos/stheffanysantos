@@ -1,12 +1,12 @@
 # Stheffany Santos
 
-<div align="center">
-
+<p align="center">
+  <pre>
  /\_/\
 ( o.o )
  > ^ <
-
-</div>
+  </pre>
+</p>
 
 Sou desenvolvedora de software e atualmente trabalho com produtos digitais que unem tecnologia, experiência do usuário e impacto para o negócio. Minha trajetória combina desenvolvimento mobile e web, permitindo construir soluções com foco em usabilidade, performance e escalabilidade.
 
