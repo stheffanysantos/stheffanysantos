@@ -14,8 +14,12 @@ Atualmente, atuo no desenvolvimento de sistemas e aplicativos móveis utilizando
 
 <p align="center">
   <pre>
- /\_/\      /\_/\
-( o.o )    ( o.o )
- > ^ <      > ^ <
+ /\_/\  /\_/\  /\_/\  /\_/\  /\_/\
+( o.o )( o.o )( o.o )( o.o )( o.o )
+ > ^ <  > ^ <  > ^ <  > ^ <  > ^ <
+
+ /\_/\  /\_/\  /\_/\  /\_/\  /\_/
+( o.o )( o.o )( o.o )( o.o )( o.o )
+ > ^ <  > ^ <  > ^ <  > ^ <  > ^ <
   </pre>
 </p>
