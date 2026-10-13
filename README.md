@@ -1,8 +1,16 @@
 # Stheffany Santos
 
-Sou desenvolvedora de Software e adoro trabalhar com produtos digitais que unem **tecnologia, experiência do usuário e impacto para o negócio**. Minha trajetória combina Desenvolvimento Mobile e Web, permitindo construir soluções com foco em **usabilidade, performance e escalabilidade**.
+<div align="center">
 
-Atualmente atuo no desenvolvimento de sistemas e produtos digitais utilizando **Flutter, React e .NET**. Também desenvolvo pesquisa acadêmica em Ciência da Computação e atuo como **Presidente do Licode (Ladies in Code)**, liderando iniciativas de comunidade, eventos e mentoria.
+ /\_/\
+( o.o )
+ > ^ <
+
+</div>
+
+Sou desenvolvedora de software e atualmente trabalho com produtos digitais que unem tecnologia, experiência do usuário e impacto para o negócio. Minha trajetória combina desenvolvimento mobile e web, permitindo construir soluções com foco em usabilidade, performance e escalabilidade.
+
+Atualmente, atuo no desenvolvimento de sistemas e aplicativos móveis utilizando Flutter/Dart, TypeScript, React, Vue e Java. Também desenvolvo pesquisas acadêmicas em Ciência da Computação e atuo como Presidente e Fundadora do LICODE (Ladies in Code), liderando iniciativas de comunidade, eventos e mentoria.
 
 ### Interesses e Objetivos
 
