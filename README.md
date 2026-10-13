@@ -16,8 +16,6 @@ Atualmente, atuo no desenvolvimento de sistemas e aplicativos móveis utilizando
 
  **Desenvolvimento Mobile** |  **Engenharia de Software** |  **Arquitetura de Aplicações** |  **User Experience** |  **Design Systems** | **Acessibilidade** |  **Inteligência Artificial**
 
----
-
 ## Conecte Comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tetscode)
